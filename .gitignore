@@ -1,1 +1,7 @@
-arduino_basic.py
+Speech_to_Text/
+Text_to_Speech/
+Connected.py
+output.py
+.vscode
+.dist
+__pycache__
