@@ -13,9 +13,11 @@ Arduino has intrigued me ever since I was a little child, and I now own one. The
 5. Heat Sensor: With temperature variation, LED and Buzzer will act.
 6. Will Keep adding more... Follow Me ON GITHUB and LinkedIn.
 
-## Basic Lang Info:
-This Project is developed using HTML, CSS, JS, Ajax, JQuery and PHP (Filesystem).
-Anyone having basic knowledge of mentioned language can handle this project.
+## Basic Requirements Info:
+ - Arduino UNO Board & KIT.
+ - Python Basics to start.
+ - Arduino-Ide - Windows
+ - Serial Monitor - Andriod (Basic Test)
 
 ## Authors
 Contributors names and contact info
