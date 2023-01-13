@@ -2,7 +2,7 @@
 
 ![me](https://wallpaperaccess.com/full/5989984.jpg)
 
-### How it Works
+### Intro
 Arduino has intrigued me ever since I was a little child, and I now own one. Therefore, I'll just be providing example codes here. If another person has the same interest, you can clone this repository.<3 
 
 ### Folders
