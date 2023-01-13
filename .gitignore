@@ -1,7 +1,7 @@
 Speech_to_Text/
 Text_to_Speech/
-Connected.py
-output.py
+_connected.py
+_output.py
 .vscode
 .dist
 __pycache__
