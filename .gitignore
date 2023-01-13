@@ -2,6 +2,7 @@ Speech_to_Text/
 Text_to_Speech/
 _connected.py
 _output.py
+_5VoltOut.py
 .vscode
 .dist
 __pycache__
